@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://github.com/mvictor10/mvictor10.github.io/blob/main/img/foto.jpg">
 
 ### Hi there 👋, I am Manoel Vitor
 
