@@ -1,4 +1,9 @@
 <img src="https://github.com/mvictor10/mvictor10.github.io/blob/main/img/foto.jpg">
+<p align="left">
+   <a href="https://mvictor10.github.io" target="_blank">
+      <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">
+   </a>
+</p>
 
 ## ABOUT ME
 
@@ -96,9 +101,15 @@
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"  /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"  /></a>
 </p>
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvictor10&show_icons=true&locale=en&layout=compact" alt="mvictor10" /></p>
-
+-->
+<p align="left">
+   <a href="#" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvictor10&theme=blue-gree"/>
+   </a>
+</p>
+     
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvictor10&show_icons=true&locale=en" alt="mvictor10" /></p>
 
 <p align="left">
