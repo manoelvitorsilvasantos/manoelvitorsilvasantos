@@ -1,7 +1,17 @@
 <img src="https://github.com/mvictor10/mvictor10.github.io/blob/main/img/foto.jpg">
 
+## ABOUT ME
+
 <h1 align="left">Hi 👋, I'm manoel vitor</h1>
 <h3 align="left">A developer fullstack in brazil</h3>
+
+<p align="left">
+   👨‍💻 ADS 2018
+</p>
+<p align="left">
+   🏫 IFBA - Campus Irecê - BA
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvictor10&label=Profile%20views&color=0e75b6&style=flat" alt="mvictor10" /> </p>
 
