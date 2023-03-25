@@ -90,18 +90,18 @@
 
 <h3 align="left">Database</h3>
 <p align="left"> 
-   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"  /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"  /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"  /></a>
+   <a href="https://sqlite.com/" target="blank"><img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"  /></a>
+  <a href="https://mysql.com" target="blank"><img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  /></a>
+  <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"  /></a>
+  <a href="https://mariadb.org/" target="blank"><img align="center" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"  /></a>
 
 </p>
        
 <h3 align="left">Designer</h3>
 <p align="left"> 
-   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"  /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"  /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"  /></a>
+   <a href="https://www.figma.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"  /></a>
+  <a href="https://www.gimp.org" target="blank"><img align="center" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"  /></a>
+  <a href="https://www.inkscape.org" target="blank"><img align="center" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"  /></a>
 </p>
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvictor10&show_icons=true&locale=en&layout=compact" alt="mvictor10" /></p>
