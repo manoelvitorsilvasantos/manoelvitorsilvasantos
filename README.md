@@ -133,7 +133,7 @@
    <a href="https://linkedin.com/in/manoelvitorpauferro" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="manoelvitorpauferro"  /></a>
   <a href="https://discord.com/mvictor10#1346" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="manoelvitorpauferro"  /></a>
    <a href="https://wa.me/557499972981" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="manoelvitorpauferro"  /></a>
-   <a href="https://telegram.me/share/url?user=mvictor10&phone=+5574999729815&text=sua%20mensagem%20aqui" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="manoelvitorpauferro"  /></a>
+   <a href="https://telegram.me/mvictor10?text=ol&aacute;" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="manoelvitorpauferro"  /></a>
   
   </p>
 
