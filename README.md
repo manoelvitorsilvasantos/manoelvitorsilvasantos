@@ -19,6 +19,20 @@
    🏫 IFBA - Campus Irecê - BA
 </p>
 
+# Projetos Desenvolvido
+
+- [Projeto de Planejamento Financeiro - Python](https://github.com/mvictor10/financial-projet-TDS)
+- [Biblioteca Arduino Display 7 Segmentos](https://github.com/mvictor10/display7)
+- [Aplicativo Android - Quiz](https://github.com/mvictor10/Temperamento-App)
+- [Projeto PHP - Painel de Controle](https://github.com/mvictor10/restrito)
+- [Java Sistema de Gerenecialmento de Aluno](https://github.com/mvictor10/Java-CadastroAluno)
+- [Aplicativo Android - Biblia](https://github.com/mvictor10/leBible)
+- [NodeMCU - Projeto Usando ESP8266](https://github.com/mvictor10/ESP8266-ControlAcess-DATA)
+- [NodeMCU - ESP82666 V1.0](https://github.com/mvictor10/esp8266-NODEMCU-Info-Sensors)
+- [NodeMCU - ESP8266 - Usando sensor LDR & Sensor de Humildade e Temperatura](https://github.com/mvictor10/ESP8266-Acess-Control-Luminosidade)
+- [Sava Frontend - Projeto de cadastro de dissertação de TCC](https://github.com/jonatasfbastos/sava-frontend)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvictor10&label=Profile%20views&color=0e75b6&style=flat" alt="mvictor10" /> </p>
 
