@@ -1,8 +1,8 @@
-<img src="https://github.com/mvictor10/fotos-casa/blob/main/banners/banner1_github.gif?raw=true">
+<img src="https://github.com/kraussmanoelvitor/fotos-casa/blob/main/banners/banner1_github.gif?raw=true">
 
-<img src="https://github.com/mvictor10/mvictor10.github.io/blob/main/img/foto.jpg">
+<img src="https://github.com/kraussmanoelvitor/kraussmanoelvitor.github.io/blob/main/img/foto.jpg">
 <p align="left">
-   <a href="https://mvictor10.github.io" target="_blank">
+   <a href="https://kraussmanoelvitor.github.io" target="_blank">
       <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">
    </a>
 </p>
@@ -21,20 +21,20 @@
 
 # Listas de Alguns projetos desenvolvido por mim.
 
-- [Projeto de Planejamento Financeiro - Python](https://github.com/mvictor10/financial-projet-TDS)
-- [Biblioteca Arduino Display 7 Segmentos - C/C++](https://github.com/mvictor10/display7)
-- [Aplicativo Android - Quiz - Java/Android/XML](https://github.com/mvictor10/Temperamento-App)
-- [Projeto PHP - Painel de Controle - PHP/HTML5/CSS3/Javascript/JQuery](https://github.com/mvictor10/restrito)
-- [Java Sistema de Gerenecialmento de Aluno - Java](https://github.com/mvictor10/Java-CadastroAluno)
-- [Aplicativo Android - Biblia  - Java/Android/XML](https://github.com/mvictor10/leBible)
-- [NodeMCU - Projeto Usando ESP8266 -  C/C++](https://github.com/mvictor10/ESP8266-ControlAcess-DATA)
-- [NodeMCU - ESP82666 V1.0 - C/C++](https://github.com/mvictor10/esp8266-NODEMCU-Info-Sensors)
-- [NodeMCU - ESP8266 - Usando sensor LDR & Sensor de Humildade e Temperatura - C/C++](https://github.com/mvictor10/ESP8266-Acess-Control-Luminosidade)
+- [Projeto de Planejamento Financeiro - Python](https://github.com/kraussmanoelvitor/financial-projet-TDS)
+- [Biblioteca Arduino Display 7 Segmentos - C/C++](https://github.com/kraussmanoelvitor/display7)
+- [Aplicativo Android - Quiz - Java/Android/XML](https://github.com/kraussmanoelvitor/Temperamento-App)
+- [Projeto PHP - Painel de Controle - PHP/HTML5/CSS3/Javascript/JQuery](https://github.com/kraussmanoelvitor/restrito)
+- [Java Sistema de Gerenecialmento de Aluno - Java](https://github.com/kraussmanoelvitor/Java-CadastroAluno)
+- [Aplicativo Android - Biblia  - Java/Android/XML](https://github.com/kraussmanoelvitor/leBible)
+- [NodeMCU - Projeto Usando ESP8266 -  C/C++](https://github.com/kraussmanoelvitor/ESP8266-ControlAcess-DATA)
+- [NodeMCU - ESP82666 V1.0 - C/C++](https://github.com/kraussmanoelvitor/esp8266-NODEMCU-Info-Sensors)
+- [NodeMCU - ESP8266 - Usando sensor LDR & Sensor de Humildade e Temperatura - C/C++](https://github.com/kraussmanoelvitor/ESP8266-Acess-Control-Luminosidade)
 - [Sava Frontend - Projeto de cadastro de dissertação de TCC - Java Desktop](https://github.com/jonatasfbastos/sava-frontend)
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mvictor10&label=Profile%20views&color=0e75b6&style=flat" alt="mvictor10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kraussmanoelvitor&label=Profile%20views&color=0e75b6&style=flat" alt="mvictor10" /> </p>
 
 <p align="left">
    <img src="https://img.shields.io/github/followers/{mvictor10}.svg?style=social&label=Follow&maxAge=2592000"/>
@@ -122,11 +122,11 @@
 -->
 <p align="left">
    <a href="#" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvictor10&theme=blue-gree"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraussmanoelvitor&theme=blue-gree"/>
    </a>
 </p>
      
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvictor10&show_icons=true&locale=en" alt="mvictor10" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kraussmanoelvitor&show_icons=true&locale=en" alt="mvictor10" /></p>
 
 <p align="left">
   <a href="https://instagram.com/manoelvitorpauferro" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="manoelvitorpauferro"  /></a>
