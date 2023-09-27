@@ -1,8 +1,8 @@
-<img src="https://github.com/kraussmanoelvitor/fotos-casa/blob/main/banners/banner1_github.gif?raw=true">
+<img src="https://github.com/manoelvitorsilvasantos/fotos-casa/blob/main/banners/banner1_github.gif?raw=true">
 
-<img src="https://github.com/kraussmanoelvitor/kraussmanoelvitor.github.io/blob/main/img/foto.jpg">
+<img src="https://github.com/manoelvitorsilvasantos/manoelvitorsilvasantos.github.io/blob/main/img/foto.jpg">
 <p align="left">
-   <a href="https://kraussmanoelvitor.github.io" target="_blank">
+   <a href="https://manoelvitorsilvasantos.github.io" target="_blank">
       <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">
    </a>
 </p>
@@ -21,26 +21,26 @@
 
 # Listas de Alguns projetos desenvolvido por mim.
 
-- [Projeto de Planejamento Financeiro - Python](https://github.com/kraussmanoelvitor/financial-projet-TDS)
-- [Biblioteca Arduino Display 7 Segmentos - C/C++](https://github.com/kraussmanoelvitor/display7)
-- [Aplicativo Android - Quiz - Java/Android/XML](https://github.com/kraussmanoelvitor/Temperamento-App)
-- [Projeto PHP - Painel de Controle - PHP/HTML5/CSS3/Javascript/JQuery](https://github.com/kraussmanoelvitor/restrito)
-- [Java Sistema de Gerenecialmento de Aluno - Java](https://github.com/kraussmanoelvitor/Java-CadastroAluno)
-- [Aplicativo Android - Biblia  - Java/Android/XML](https://github.com/kraussmanoelvitor/leBible)
-- [NodeMCU - Projeto Usando ESP8266 -  C/C++](https://github.com/kraussmanoelvitor/ESP8266-ControlAcess-DATA)
-- [NodeMCU - ESP82666 V1.0 - C/C++](https://github.com/kraussmanoelvitor/esp8266-NODEMCU-Info-Sensors)
-- [NodeMCU - ESP8266 - Usando sensor LDR & Sensor de Humildade e Temperatura - C/C++](https://github.com/kraussmanoelvitor/ESP8266-Acess-Control-Luminosidade)
+- [Projeto de Planejamento Financeiro - Python](https://github.com/manoelvitorsilvasantos/financial-projet-TDS)
+- [Biblioteca Arduino Display 7 Segmentos - C/C++](https://github.com/manoelvitorsilvasantos/display7)
+- [Aplicativo Android - Quiz - Java/Android/XML](https://github.com/manoelvitorsilvasantos/Temperamento-App)
+- [Projeto PHP - Painel de Controle - PHP/HTML5/CSS3/Javascript/JQuery](https://github.com/manoelvitorsilvasantos/restrito)
+- [Java Sistema de Gerenecialmento de Aluno - Java](https://github.com/manoelvitorsilvasantos/Java-CadastroAluno)
+- [Aplicativo Android - Biblia  - Java/Android/XML](https://github.com/manoelvitorsilvasantos/leBible)
+- [NodeMCU - Projeto Usando ESP8266 -  C/C++](https://github.com/manoelvitorsilvasantos/ESP8266-ControlAcess-DATA)
+- [NodeMCU - ESP82666 V1.0 - C/C++](https://github.com/manoelvitorsilvasantos/esp8266-NODEMCU-Info-Sensors)
+- [NodeMCU - ESP8266 - Usando sensor LDR & Sensor de Humildade e Temperatura - C/C++](https://github.com/manoelvitorsilvasantos/ESP8266-Acess-Control-Luminosidade)
 - [Sava Frontend - Projeto de cadastro de dissertação de TCC - Java Desktop](https://github.com/jonatasfbastos/sava-frontend)
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kraussmanoelvitor&label=Profile%20views&color=0e75b6&style=flat" alt="mvictor10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manoelvitorsilvasantos&label=Profile%20views&color=0e75b6&style=flat" alt="manoelvitorsilvasantos" /> </p>
 
 <p align="left">
-   <img src="https://img.shields.io/github/followers/{mvictor10}.svg?style=social&label=Follow&maxAge=2592000"/>
+   <img src="https://img.shields.io/github/followers/{manoelvitorsilvasantos}.svg?style=social&label=Follow&maxAge=2592000"/>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvictor10" alt="mvictor10" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoelvitorsilvasantos" alt="manoelvitorsilvasantos" /></a> </p>
 
 
 <h3 align="left">OS</h3>
@@ -118,22 +118,22 @@
   <a href="https://www.inkscape.org" target="blank"><img align="center" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"  /></a>
 </p>
 <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvictor10&show_icons=true&locale=en&layout=compact" alt="mvictor10" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manoelvitorsilvasantos&show_icons=true&locale=en&layout=compact" alt="manoelvitorsilvasantos" /></p>
 -->
 <p align="left">
    <a href="#" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraussmanoelvitor&theme=blue-gree"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelvitorsilvasantos&theme=blue-gree"/>
    </a>
 </p>
      
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kraussmanoelvitor&show_icons=true&locale=en" alt="mvictor10" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manoelvitorsilvasantos&show_icons=true&locale=en" alt="manoelvitorsilvasantos" /></p>
 
 <p align="left">
   <a href="https://instagram.com/manoelvitorpauferro" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="manoelvitorpauferro"  /></a>
    <a href="https://linkedin.com/in/manoelvitorpauferro" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="manoelvitorpauferro"  /></a>
-  <a href="https://discord.com/mvictor10#1346" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="manoelvitorpauferro"  /></a>
+  <a href="https://discord.com/manoelvitorsilvasantos#1346" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="manoelvitorpauferro"  /></a>
    <a href="https://wa.me/557499972981" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="manoelvitorpauferro"  /></a>
-   <a href="https://telegram.me/mvictor10?text=ol&aacute;" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="manoelvitorpauferro"  /></a>
+   <a href="https://telegram.me/manoelvitorsilvasantos?text=ol&aacute;" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="manoelvitorpauferro"  /></a>
   
   </p>
 
